@@ -1,6 +1,6 @@
 # Intro
 This page is highly inspired by [NUS's seniors advice to their juniors](https://github.com/nushackers/notes-to-cs-freshmen-from-the-future)  
-Hhead to that page too and just ignore the NUS specific advice on modules  
+Head to that page too and just ignore the NUS specific advice on modules  
 I'll be giving my thoughts based on my experience in UOW-SIM's Computer Science, Digital Systems Security degree.  
 
 # Focus on the basics 

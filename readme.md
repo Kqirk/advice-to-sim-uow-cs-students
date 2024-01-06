@@ -70,6 +70,7 @@ Pre-reading will prepare you to learn the parts you didn't understand rather tha
 School lectures are not the only resources where you can learn from. Don't rely on them solely.  
 The topics taught in school are not special, you can youtube or google them to learn them better.  
 I will include a few youtube resources for the modules where I've used them in the sub-folders of this repository. I learn better through videos, if your learning style leans to reading, explore and find what works for you.  
+**If any external sources differ in methods / proofs from lecture, always use the one in lecture notes**
 
 ## Attend and pay attention during tutorials
 Tutorials are where you solidify your understanding. Make sure you follow along and clear up your doubts. They are also the time where you ask questions regarding your assignments.

@@ -1,7 +1,7 @@
 # Intro
 This page is highly inspired by [NUS's seniors advice to their juniors](https://github.com/nushackers/notes-to-cs-freshmen-from-the-future)  
-For good general advice, head to that page and ignore the NUS specific advice on modules  
-I'll be giving my thoughts based on my experience in UOW-SIM's Computer Science, Digital Systems Security  
+Hhead to that page too and just ignore the NUS specific advice on modules  
+I'll be giving my thoughts based on my experience in UOW-SIM's Computer Science, Digital Systems Security degree.  
 
 # Focus on the basics 
 If you're new to computer science and programming like I was, stick to the basics and make sure they are rock solid  
@@ -78,7 +78,12 @@ Tutorials are where you solidify your understanding. Make sure you follow along 
 Exams are pen and paper, even for the programming modules.  
 It then makes sense to write in pen and paper for your finals revision to memorize the syntax.  
 
-# Things I wish I knew when I started
+## You don't need the textbooks
+I made it through my degree from 2021-2023 without buying the textbooks, in case you're wondering if you need to spend the money to.  
+
+# Things I wish I knew when I started / Things you can look up 
+I'd recommend visiting this section after your first two semesters.  
+Focus on school for the first two semesters first before branching out.  
 ## Git
 Git is something you'll use to collaborate with your teammates in the future, as long as at work.  
 Get used to using it.  
@@ -95,6 +100,23 @@ Just make sure you're comfortable with these concepts:
 - how to solve merge conflicts
 [Resource to get started](https://www.youtube.com/watch?v=tRZGeaHPoaw)
 
+## Books to read
+[List](https://www.linkedin.com/pulse/12-most-infuential-books-every-software-engineer-needs-jason-roell/)
+Knowing the existence of Clean Code, tesing, test driven development etc. has had a great impact on me. This is the list of books I'm currently referring to.  
+
+## YouTubers 
+Here are some videos and Youtubers to start with.  
+- [bigboxSWE](https://www.youtube.com/watch?v=nogh434ykF0)
+- [Primeagen](https://www.youtube.com/watch?v=3JokSCmRp_s&t=514s)
+- [Fireship](https://www.youtube.com/watch?v=NtfbWkxJTHw)
+
+## Command Line / Terminal
+You'll be required to use the terminal a few times over the course of your degree.  
+Take a couple of hours to familiarize yourself with the most used commands in [Linux](https://www.youtube.com/watch?v=oxuRxtrO2Ag).  
+
+## Learn the bare basics of VIM
+You may encounter a situation where you're using a text editor like [VIM](https://www.youtube.com/watch?v=ggSyF1SVFr4). Know the bare basics to navigate your way around.  
+
 ## Technical Interviews
 When looking for jobs, you'll be given technical interviews on top of behavorial interview which are meant to assess your technical abilities.  
 The most famous practice resource would be Leetcode, in which questions are divided into Easy, Medium and Hard.  
@@ -104,7 +126,7 @@ There are also take-home assesments instead of the DSA questions where you'll be
 ### Start with Codewars first
 However, I recommend easing into these questions by using another practice resource called "Codewars".  
 You start off at 8-kyu and you can go all the way up to 1-kyu etc.  
-After completing 111 and 121, you should be able to solve 6-kyu problems.
+After completing 111 and 121, you should be able to solve 6-kyu problems.  
 After 203, you can start to look into Leetcode Easy.
 
 ### Leetcode, NeetCode
@@ -124,22 +146,46 @@ If you're interested in building websites, here are some resources to get you st
 - (FreeCodeCamp)[https://www.freecodecamp.org/learn/responsive-web-design/]
 - (The Odin Project)[https://www.theodinproject.com/paths]
 
+## Docker
+Docker is something you should know of after completing 121.  
+Here's a [resource](https://www.youtube.com/watch?v=pg19Z8LL06w) to get you started.  
+Feel free to explore for your own resources.  
+
 ## Amazon Web Services
 AWS is the leading cloud service provider and you may even be using it for your FYP.  
 Know of it's existence, look it up on [Youtube](https://www.youtube.com/watch?v=KFtXnCmYx3s) or Udemy to see if you're interested. 
 
+## The different types of specializations
+Computer Science is very broad and the amount of things to learn can be quite daunting.  
+If you know what you're interested in, you can then tailor your skillset to be more appealing when you look for a job.  
+Here are some broad categories you can look into:
+### Software Engineer / Frontend Developer
+In this field, solid basics in HTML, CSS and Javascript, followed by knowing some sort of framework like React, Ruby on Rails, Angular, Django. Having a portfolio of sites you've created would help.  
 
+### Software Engineer/ Backend Developer
+It's a bit broad in this category. Know a programming language beyond what school teaches you, have good understanding of programming concepts.  
+School starts you off with Java, Python is an elective and there's C++ in advanced programming.  
+It's also good to know about testing, containerization, CI/CD. School teaches these in 314 but it can be introduced quite late.  
 
+### DevOps Engineer
+Knowing a major cloud provider (Amazon Web Services/Microsoft Azure/Google Cloud), CI/CD (GitLab CI/CD/GitHub Actions), Infrastrucure-as-code such as Terraform, Docker, bash scripts, Kubernetes, will be a great start to become a DevOps Engineer.  
 
+### Quality Engineer / Test Engineer/ Software Engineer in Test
+A field I'm not too familiar with, they are software engineers that specialize in testing. It's good to know about unit tests, regression tests, test driven development concepts, as well as Selenium and Playwright for a start.  
 
+### Mobile Application Engineer
+A field I'm not too familiar with, major technologies used that come to mind are Kotlin (Android), Swift (IOS), Flutter (Cross platform). Just get started build your apps no matter how simple they are.  
 
+### Data Engineer / ML 
+A field I'm not too familiar with, make sure you're in the Big Data Major for a start.  
+Be comfortable with Python, Databases, [R](https://www.w3schools.com/r/), machine learning model deployment and toolkits (TensorFlow/PyTorch) for a start.
 
+### Cyber Security Engineer
+Pick the Digital Systems Security major as 361 and 368 are comprehensive and give you the fundamentals for security.  
+Knowledge of security concepts and strong fundamentals in C/C++ is a good start.  
 
-
-
-
-
-
-
+## Other Fields
+Other fields that I know exists but don't know enough to recommend anything are Embedded Software Engineer, Game Developer, Systems Engineer, Algorithm Engineer, Database Administrator, Analyst type jobs.  
+Feel free to Google and explore them.  
 
 
